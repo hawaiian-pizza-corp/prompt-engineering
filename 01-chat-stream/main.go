@@ -35,8 +35,8 @@ func main() {
 	`
 	
 	userQuestion := `What is the best pizza in the world?`
-	//userQuestion := `What are the ingredients of the hawaiian pizza?`
 	//userQuestion := `What is your name?`
+	//userQuestion := `What are the ingredients of the hawaiian pizza?`
 
 	messages := []openai.ChatCompletionMessageParamUnion{
 		openai.SystemMessage(systemInstructions),

@@ -41,6 +41,4 @@ According to OpenAI, prompt engineering is "the process of designing and optimiz
 
 > - The "Structured Output" Technique: specify exactly how you want the information formatted.
 
-slides -> structured
-for a french person -> notes
 
